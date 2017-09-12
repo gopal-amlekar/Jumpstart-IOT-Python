@@ -1,2 +1,2 @@
-# Jumpstart-IOT-Python
-Holds very simple basic Python code snippets
+### Basics of Python
+This repository holds very simple basic Python code samples.
